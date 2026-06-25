@@ -57,6 +57,10 @@
     "obsidian-skills": {
       "usageCount": 2,
       "lastUsedAt": 1782375678053
+    },
+    "obsidian-cli": {
+      "usageCount": 1,
+      "lastUsedAt": 1782377590327
     }
   },
   "changelogLastFetched": 1781424965226,
