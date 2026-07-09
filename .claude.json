@@ -116,5 +116,12 @@
       ],
       "env": {}
     }
+  },
+  "pluginUsage": {
+    "impeccable@skills-dir": {
+      "usageCount": 0,
+      "lastUsedAt": 1783578666277,
+      "lastUsedNumStartups": 6
+    }
   }
 }
